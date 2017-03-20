@@ -1,9 +1,0 @@
-com\search\engine\property\ws\rest\impl\CodeLabelRESTServiceImpl.class
-com\search\engine\property\core\service\CodeLabelService.class
-com\search\engine\property\core\persistence\repository\CodeLabelRepository.class
-com\search\engine\property\core\mapper\CodeLabelMapper.class
-com\search\engine\property\core\mapper\CodeLabelMapperImpl.class
-com\search\engine\property\core\persistence\entity\CodeLabelEntityId.class
-com\search\engine\property\core\service\impl\CodeLabelServiceImpl.class
-com\search\engine\property\core\persistence\entity\CodeLabelEntity.class
-com\search\engine\property\ws\rest\model\CodeLabel.class

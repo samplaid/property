@@ -1,3 +1,2 @@
 RUNSCRIPT FROM 'C:\documents\property-search-engine\h2\schema.sql'
-
 RUNSCRIPT FROM 'C:\documents\property-search-engine\h2\populate.sql'

@@ -3,7 +3,7 @@
 	<deployment>
 		<dependencies>
 			<module name="org.jboss.resteasy.resteasy-spring" />
-			<module name="org.keycloak.keycloak-core" />
+<!-- 			<module name="org.keycloak.keycloak-core" /> -->
 			<module name="org.hibernate" />
 		</dependencies>
 		  <exclusions>
